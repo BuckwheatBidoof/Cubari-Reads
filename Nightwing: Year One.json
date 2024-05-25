@@ -1,17 +1,24 @@
 {
   "title": "Nightwing: Year One",
   "description": "The Nightwing: Year One storyline was published from March, 2005 to May, 2005 in the comic book series Nightwing. This story tells the history of Dick Grayson and his life after Batman fired him, as he gains advice from Superman, aids Deadman, and makes the decisions that lead him to become a new crimefighter.",
-  "artist": "Scott McDaniel",
+  "artist": "Scott McDaniel, Andy Owens",
   "author": "Chuck Dixon, Scott Beatty",
   "cover": "https://static.wikia.nocookie.net/marvel_dc/images/5/53/Nightwing_Year_One_TP.jpg/revision/latest?cb=20080603173807",
   "chapters": {
     "1": {
-      "title": "Chapter 1",
-      "volume": "1",
-      "last_updated": "1716669973",
+      "title": "Only Robins Have Wings",
+      "volume": "",
+      "last_updated": "1716672607",
       "groups": {
         "": [
-          "https://2.bp.blogspot.com/5BpJY1X5Hpy_heBbY2J1ALwvi4u_oyMRZXkXMF9x0_T7AthkdFR1FUdJLYSiUFX8n253QLOIDYFz=s1600?rhlupa=MjYwMToyNDA6Y2EwNDpkMDEwOmFmNGM6OTgwZTo3NjAyOmM0Y2Q=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTI1LjAuMC4wIFNhZmFyaS81MzcuMzY="
+          "https://2.bp.blogspot.com/5BpJY1X5Hpy_heBbY2J1ALwvi4u_oyMRZXkXMF9x0_T7AthkdFR1FUdJLYSiUFX8n253QLOIDYFz=s1600?rhlupa=MjYwMToyNDA6Y2EwNDpkMDEwOmFmNGM6OTgwZTo3NjAyOmM0Y2Q=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTI1LjAuMC4wIFNhZmFyaS81MzcuMzY=",
+          "https://2.bp.blogspot.com/PmOieys4OjKgES1U3yuZOvvyUzKtwGXORnfk-7y23mk9znQO9vmkWI6isp9Iu6FitEpZrbER17cU=s1600?rhlupa=MjYwMToyNDA6Y2EwNDpkMDEwOjIyNmI6MTk4Zjo2ZjFhOjhjN2U=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTI1LjAuMC4wIFNhZmFyaS81MzcuMzY=",
+          "https://2.bp.blogspot.com/MDa4zwg1NhTQoJiZySbvTye5ePHRGZ9wY_1yF4rU8gorsbdKc2E4ncma-wB1tictiFtSrvY5u3pK=s1600?rhlupa=MjYwMToyNDA6Y2EwNDpkMDEwOjIyNmI6MTk4Zjo2ZjFhOjhjN2U=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTI1LjAuMC4wIFNhZmFyaS81MzcuMzY=",
+          "https://2.bp.blogspot.com/nZo8cMWAAKL__KJjh4fiDLbWWhcyPZR86KFf92Op0iVm_yzt9OMyuD6hzMWwEIWETP553q8wqw-_=s1600?rhlupa=MjYwMToyNDA6Y2EwNDpkMDEwOjIyNmI6MTk4Zjo2ZjFhOjhjN2U=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTI1LjAuMC4wIFNhZmFyaS81MzcuMzY=",
+          "https://2.bp.blogspot.com/xtTrHFmrw97lmV9W_45r5OZXgVK3n92Xe7jOQ1350vYrYWJ2tSjRfelbixuu0IyqgcAk_OE4FOWt=s1600?rhlupa=MjYwMToyNDA6Y2EwNDpkMDEwOjIyNmI6MTk4Zjo2ZjFhOjhjN2U=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTI1LjAuMC4wIFNhZmFyaS81MzcuMzY=",
+          "https://2.bp.blogspot.com/EhSIyhfvI7XId9ovKeKYKKgb9juJQDjR2iLAY7zn2a5FTe-SeVwy3zwIPdFUnbOniiE4kewoFohI=s1600?rhlupa=MjYwMToyNDA6Y2EwNDpkMDEwOjIyNmI6MTk4Zjo2ZjFhOjhjN2U=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTI1LjAuMC4wIFNhZmFyaS81MzcuMzY=",
+          "https://2.bp.blogspot.com/yHjwjTw_TalZjTr2bZbI0pmHXSbKB80j5belgawbPy6BKyWP-6KU9jEs5SEPR2Jae-IcvDp10C2m=s1600?rhlupa=MjYwMToyNDA6Y2EwNDpkMDEwOjIyNmI6MTk4Zjo2ZjFhOjhjN2U=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTI1LjAuMC4wIFNhZmFyaS81MzcuMzY=",
+          "https://2.bp.blogspot.com/a-omC-gWBlGU9s_NFKQ9oWaRUnZQgvfZaCqUzYGOYUXx7v_GFqtZcDggTr2EYRFjs2DiTfr6K_KT=s1600?rhlupa=MjYwMToyNDA6Y2EwNDpkMDEwOjIyNmI6MTk4Zjo2ZjFhOjhjN2U=&rnvuka=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTI1LjAuMC4wIFNhZmFyaS81MzcuMzY="
         ]
       }
     }
