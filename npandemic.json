@@ -1,0 +1,25 @@
+{
+  "title": "Netorare Pandemic",
+  "description": "",
+  "artist": "edo shigezu",
+  "author": "edo shigezu",
+  "cover": "https://t4.nhentai.net/galleries/4043605/cover.webp.webp",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1783829176",
+      "groups": {
+        "": "/proxy/api/nhentai/chapter/663408"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1783829211",
+      "groups": {
+        "": "/proxy/api/nhentai/chapter/663410"
+      }
+    }
+  }
+}
