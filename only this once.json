@@ -1,0 +1,33 @@
+{
+  "title": "Only This Once!",
+  "description": "",
+  "artist": "nukunuku",
+  "author": "nantoka narunaru.",
+  "cover": "https://t1.nhentai.net/galleries/4033967/cover.jpg.webp",
+  "chapters": {
+    "1": {
+      "title": "I’m Home: It Will All Work Out Somehow",
+      "volume": "",
+      "last_updated": "1783827286",
+      "groups": {
+        "": "/proxy/api/nhentai/chapter/662224"
+      }
+    },
+    "2": {
+      "title": "Only this once!",
+      "volume": "",
+      "last_updated": "1783827314",
+      "groups": {
+        "": "/proxy/api/nhentai/chapter/662731"
+      }
+    },
+    "3": {
+      "title": "After That",
+      "volume": "",
+      "last_updated": "1783827334",
+      "groups": {
+        "": "/proxy/api/nhentai/chapter/663462"
+      }
+    }
+  }
+}
