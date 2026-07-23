@@ -1,0 +1,25 @@
+{
+  "title": "Alien Abduction",
+  "description": "",
+  "artist": "arisane",
+  "author": "arisane",
+  "cover": "https://t1.nhentai.net/galleries/3037070/cover.jpg",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1784784754",
+      "groups": {
+        "": "/proxy/api/nhentai/chapter/527037"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1784784775",
+      "groups": {
+        "": "/proxy/api/nhentai/chapter/666671"
+      }
+    }
+  }
+}
