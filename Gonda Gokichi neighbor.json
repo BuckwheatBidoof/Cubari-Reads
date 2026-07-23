@@ -1,0 +1,25 @@
+{
+  "title": "Gonda Gokichi neighbor",
+  "description": "",
+  "artist": "Nantomo-san",
+  "author": "Nantomo-san",
+  "cover": "https://t1.nhentai.net/galleries/3904052/cover.webp.webp",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1784784936",
+      "groups": {
+        "": "/proxy/api/nhentai/chapter/645814"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1784784993",
+      "groups": {
+        "": "/proxy/api/nhentai/chapter/666669"
+      }
+    }
+  }
+}
