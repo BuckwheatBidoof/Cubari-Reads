@@ -1,0 +1,25 @@
+{
+  "title": "A Harem Where No One Is Reciprocated",
+  "description": "",
+  "artist": "cabin",
+  "author": "cabin",
+  "cover": "https://t1.nhentai.net/galleries/3640248/cover.webp.webp",
+  "chapters": {
+    "1": {
+      "title": "A Harem Where No One Is Reciprocated 1",
+      "volume": "",
+      "last_updated": "1785267585",
+      "groups": {
+        "": "/proxy/api/nhentai/chapter/610041"
+      }
+    },
+    "2": {
+      "title": "A Harem Where No One Is Reciprocated 2",
+      "volume": "",
+      "last_updated": "1785267615",
+      "groups": {
+        "": "/proxy/api/nhentai/chapter/667907"
+      }
+    }
+  }
+}
