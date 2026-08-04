@@ -1,0 +1,25 @@
+{
+  "title": "Densha, Joshikousei. - Train Molester",
+  "description": "",
+  "artist": "kinugasa yuuichi",
+  "author": "tokamosu",
+  "cover": "https://t1.nhentai.net/galleries/4094963/cover.webp.webp",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1785859954",
+      "groups": {
+        "": "/proxy/api/nhentai/chapter/669930"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1785859979",
+      "groups": {
+        "": "/proxy/api/nhentai/chapter/669937"
+      }
+    }
+  }
+}
