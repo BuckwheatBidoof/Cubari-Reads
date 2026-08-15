@@ -1,0 +1,33 @@
+{
+  "title": "Together With Tokitsukaze",
+  "description": "",
+  "artist": "nijou katame",
+  "author": "steelact",
+  "cover": "https://t1.nhentai.net/galleries/2465195/cover.png",
+  "chapters": {
+    "11": {
+      "title": "Together With Tokitsukaze 11",
+      "volume": "",
+      "last_updated": "1786832839",
+      "groups": {
+        "": "/proxy/api/nhentai/chapter/443205"
+      }
+    },
+    "13": {
+      "title": "Together With Tokitsukaze 13",
+      "volume": "",
+      "last_updated": "1786832893",
+      "groups": {
+        "": "/proxy/api/nhentai/chapter/424153"
+      }
+    },
+    "18": {
+      "title": "Together With Tokitsukaze 18",
+      "volume": "",
+      "last_updated": "1786832923",
+      "groups": {
+        "": "/proxy/api/nhentai/chapter/532353"
+      }
+    }
+  }
+}
