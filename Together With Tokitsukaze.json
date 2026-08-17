@@ -69,6 +69,30 @@
         ]
       }
     },
+    "3": {
+      "title": "Together With Tokitsukaze 3",
+      "volume": "",
+      "last_updated": "1786985371",
+      "groups": {
+        "": "/proxy/api/nhentai/chapter/673222"
+      }
+    },
+    "4": {
+      "title": "Together with Tokitsukaze 4",
+      "volume": "",
+      "last_updated": "1786985410",
+      "groups": {
+        "": "/proxy/api/nhentai/chapter/673427"
+      }
+    },
+    "5": {
+      "title": "Together with Tokitsukaze 5",
+      "volume": "",
+      "last_updated": "1786985435",
+      "groups": {
+        "": "/proxy/api/nhentai/chapter/673430"
+      }
+    },
     "11": {
       "title": "Together With Tokitsukaze 11",
       "volume": "",
